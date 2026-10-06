@@ -1,0 +1,32 @@
+# Data processing
+pandas
+numpy
+openpyxl
+
+# Machine learning
+scikit-learn
+shap
+
+# Forecasting
+prophet
+
+# RAG Chatbot
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+
+# LLM (free)
+groq
+
+# Dashboard
+streamlit
+plotly
+folium
+streamlit-folium
+
+# Audio transcription
+openai-whisper
+
+# Environment
+python-dotenv
